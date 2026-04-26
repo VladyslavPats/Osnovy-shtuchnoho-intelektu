@@ -25,3 +25,6 @@
 
 ```bash
 pip install streamlit google-generativeai langchain langchain-community langchain-google-genai langchain-text-splitters faiss-cpu PyPDF2 python-dotenv
+
+Запуск програми
+streamlit run app.py
