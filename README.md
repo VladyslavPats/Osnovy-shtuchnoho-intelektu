@@ -1,0 +1,1 @@
+# Osnovy-shtuchnoho-intelektu
