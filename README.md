@@ -29,9 +29,10 @@
 git clone [https://github.com/ваш-юзернейм/назва-репозиторію.git](https://github.com/ваш-юзернейм/назва-репозиторію.git)
 cd назва-репозиторію
 
-# Створіть віртуальне середовище
-python -m venv venv
-source venv/bin/activate  # Для Windows: venv\Scripts\activate
-
 # Встановіть залежності
-pip install fastapi uvicorn google-generativeai python-dotenv
+pip install fastapi uvicorn google-generativeai python-dotenv pydantic google-genai
+
+#Запуск серверу бекенду
+uvicorn backend:app --reload
+
+#Запустити index.html через live server
