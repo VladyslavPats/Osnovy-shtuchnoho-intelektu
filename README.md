@@ -11,9 +11,9 @@
 - **Викладачі:** для автоматизації створення унікальних завдань.
 
 ## 🛠 Технологічний стек
-- **Backend:** Python 3.10+, FastAPI (High performance framework).
+- **Backend:** Python 3.13, FastAPI (High performance framework).
 - **AI Core:** Google Gemini 2.0 Flash Lite API.
-- **Frontend:** Vanilla JavaScript, HTML5, CSS3 (Modern UI з підтримкою Dark Mode).
+- **Frontend:** Vanilla JavaScript, HTML5, CSS3.
 - **Data Management:** JSON, LocalStorage, Python-dotenv.
 
 ## ✨ Реалізовані ШІ-патерни
