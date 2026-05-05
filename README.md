@@ -26,8 +26,8 @@
 ### 1. Клонування та налаштування
 ```bash
 # Клонуйте репозиторій
-git clone [https://github.com/ваш-юзернейм/назва-репозиторію.git](https://github.com/ваш-юзернейм/назва-репозиторію.git)
-cd назва-репозиторію
+git clone https://github.com/VladyslavPats/Osnovy-shtuchnoho-intelektu.git
+cd Osnovy-shtuchnoho-intelektu
 
 # Встановіть залежності
 pip install fastapi uvicorn google-generativeai python-dotenv pydantic google-genai
