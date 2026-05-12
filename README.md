@@ -33,6 +33,6 @@ cd Osnovy-shtuchnoho-intelektu
 pip install fastapi uvicorn google-generativeai python-dotenv pydantic google-genai
 
 #Запуск серверу бекенду
-uvicorn backend:app --reload
+py -m uvicorn backend:app --reload
 
 #Запустити index.html через live server
